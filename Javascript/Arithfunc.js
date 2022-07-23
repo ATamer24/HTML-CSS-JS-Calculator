@@ -38,16 +38,22 @@ class Calculator {
       if (isNaN(prev) || isNaN(current)) return
       switch (this.operation) {
         case '+':
-          computation = prev + current
+          computation = prev + current;
           break
         case '-':
-          computation = prev - current
+          computation = prev - current;
           break
         case 'x':
-          computation = prev * current
+          computation = prev * current;
           break
-        case '÷':
-          computation = prev / current
+        case '/':
+          if(current==0){
+            alert("Cannot Divide a number by 0");
+            computation=0;
+          }
+          else{
+            computation = prev / current;
+          }
           break
         default:
           return
