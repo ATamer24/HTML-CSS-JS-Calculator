@@ -1,4 +1,5 @@
 # HTML-CSS-JS-Calculator
+This repository contains an assignment for an Brainnest Course - Frontend development industry training. <a href="https://atamer24.github.io/HTML-CSS-JS-Calculator/">Click Here</a> and Try it now!
 <h2> Description:</h2>
 <ul>
   <li>This is a Calculator that takes 2 values and an operator </li>
