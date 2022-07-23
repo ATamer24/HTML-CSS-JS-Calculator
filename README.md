@@ -24,5 +24,5 @@ This repository contains an assignment for an Brainnest Course - Frontend develo
 </ul>
 
 <h2> Example of the Calculator:</h2>
-![image](https://user-images.githubusercontent.com/76600809/180610745-975f29ac-aefe-411b-87a5-8f3eb8d779ab.png)
+![image](https://user-images.githubusercontent.com/76600809/180610745-975f29ac-aefe-411b-87a5-8f3eb8d779ab.png?raw=true)
 
