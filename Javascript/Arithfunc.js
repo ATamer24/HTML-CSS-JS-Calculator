@@ -49,7 +49,7 @@ class Calculator {
         case '/':
           if(current==0){
             alert("Cannot Divide a number by 0");
-            computation=0;
+            computation='';
           }
           else{
             computation = prev / current;
